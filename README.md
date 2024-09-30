@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’mcurrently working on discord bot<br>I’m interested in sports (gym amd race skiing) and coding<br>I’m currently learning python and html<br>I am planning to learn c#
+🔭 I’m currently working python discord bot<br>🤝 I’m looking for help with C#<br>🌱 I’m currently learning python, html and C#<br>⚡ Fun fact, i do alpine skiing 
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I’mcurrently working on discord bot<br>I’m interested in sports (gym amd rac
 ![](https://github-readme-stats.vercel.app/api?username=Eidam38&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eidam38&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eidam38&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eidam38&icon=0&color=0)](https://visitcount.itsvg.in)
